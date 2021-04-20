@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-13.0.1\bin\javadoc.exe" @options @packages"
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\allclasses-index.html = 1618836907244
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\allpackages-index.html = 1618836907253
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\constant-values.html = 1618836906943
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\deprecated-list.html = 1618836907163
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\element-list = 1618836906858
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\help-doc.html = 1618836907264
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\index-all.html = 1618836907233
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\index.html = 1618836907174
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\member-search-index.js = 1618836907223
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\member-search-index.zip = 1618836907231
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\options = 1618836905207
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\overview-summary.html = 1618836907258
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\overview-tree.html = 1618836907154
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\package-search-index.js = 1618836907200
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\package-search-index.zip = 1618836907212
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\packages = 1618836905212
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\script.js = 1618836907280
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\search.js = 1618836907287
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\stylesheet.css = 1618836907272
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\type-search-index.js = 1618836907215
+C:\Users\Naillik\Documents\NetBeansProjects\mavenmonsterpok\target\apidocs\type-search-index.zip = 1618836907222
